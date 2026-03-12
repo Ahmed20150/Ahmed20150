@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Ahmed20150<br>🌍 I'm based in Cairo, Egypt<br>🎓 Senior Computer Engineering Student @ GUC <br>⚡ Currently Working as a Software Engineer @ Voltir <br>🧠 I’m currently learning Machine Learning / LLMs <br>💞️ I’m looking to collaborate on creative and inventive projects<br>📫 You can reach me at ahmed1.gasser@gmail.com <br>🙌 Fun fact: I love listening to music all the time & creating or editing Photos/Videos/Posters 
+👋 Hi, I’m @Ahmed20150<br>🌍 I'm based in Cairo, Egypt<br>🎓 Senior Computer Engineering Student @ GUC <br>⚡ Currently Working as a Software Engineer @ Voltir <br>🧠 I’m currently learning Machine Learning, LLMs & Agentic Tools <br>💞️ I’m looking to collaborate on creative and insightful projects<br>📫 You can reach me at ahmed1.gasser@gmail.com <br>🙌 Fun fact: I love listening to music all the time & creating or editing Photos/Videos/Posters 
 
 
 ## 🌐 Socials:
